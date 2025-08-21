@@ -12,14 +12,12 @@
 
 Email Me 👉 ✉️ **jagannathmishra540@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 🔭 **I’m currently working on:** Safend
+- 🌱 **I’m currently learning:** Machine Learning
+
+- 📫 **How to reach me:** jagannathmishra540@gmail.com
 - 😄 **Pronouns:** He Him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** ______________
 
 - 
 ## 🌐 Socials:
