@@ -17,8 +17,8 @@ Email Me 👉 ✉️ **jagannathmishra540@gmail.com** For Collaboration/Project 
 
 - 📫 **How to reach me:** jagannathmishra540@gmail.com
 - 😄 **Pronouns:** He Him
-- ⚡ **Fun fact:** ______________
-- 
+- ⚡ **Fun fact:** all ai can code but all humans cant 
+  
 |                | [![Portfolio QR](bing_generated_qrcode.png)](https://portfolio-wine-five-95.vercel.app/) |
 |:---:|:---:|
 | Click To Open  | Scan to visit my Portfolio |
