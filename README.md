@@ -19,9 +19,9 @@ Email Me 👉 ✉️ **jagannathmishra540@gmail.com** For Collaboration/Project 
 - 😄 **Pronouns:** He Him
 - ⚡ **Fun fact:** ______________
 - 
-| ![Profile](f3668561-b59b-40be-ba71-11a20e8f91a9.png) | [![Portfolio QR](bing_generated_qrcode.png)](https://portfolio-wine-five-95.vercel.app/) |
+|  | [![Portfolio QR](bing_generated_qrcode.png)](https://portfolio-wine-five-95.vercel.app/) |
 |:---:|:---:|
-| My Profile | Scan to visit my Portfolio |
+| | Scan to visit my Portfolio |
 
 - 
 ## 🌐 Socials:
