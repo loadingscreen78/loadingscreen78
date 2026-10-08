@@ -1,0 +1,7 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# one-time art scripts only (portrait, info card, QR) - not needed by the daily workflow:
+# pillow
+# numpy
+# opencv-python-headless
+# rembg[cpu]        # optional: better background removal for prep_photo.py

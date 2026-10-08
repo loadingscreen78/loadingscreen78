@@ -1,0 +1,5 @@
+# your original photo stays local (only the ASCII SVG is published)
+assets/source-photo.*
+assets/source-prepped.png
+__pycache__/
+.venv/
