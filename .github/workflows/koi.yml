@@ -1,0 +1,46 @@
+# Draws a pixel-art koi from this account's public GitHub activity
+# (https://github.com/yalongwastaken/git-koi) and commits it as koi/koi.gif,
+# which the profile README shows.
+name: Koi
+
+"on":
+  schedule:
+    # Just after midnight UTC (~05:50 IST), so the koi shows the day that just ended.
+    - cron: "20 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: [.github/workflows/koi.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: koi
+  cancel-in-progress: false
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yalongwastaken/git-koi@v1
+        with:
+          body: asagi
+          output-dir: koi
+
+      - name: Commit the koi if it changed
+        shell: bash
+        run: |
+          git add koi/koi.gif
+          if git diff --cached --quiet; then
+            echo "The koi is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "koi: draw the day's koi [skip ci]"
+          # the profile-art workflow also pushes to main; rebase onto it if it got there first
+          git pull --rebase --quiet origin main
+          git push --quiet
