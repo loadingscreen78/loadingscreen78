@@ -15,6 +15,12 @@
 
 <br>
 
+<h3><code>jagannath@github ~ $ ./koi --swim</code></h3>
+<img src="./koi/koi.gif" width="256" alt="Jagannath's koi, redrawn every night from his GitHub activity" />
+<br><sub>a koi grown from my commits · <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+
+<br><br>
+
 <h3><code>jagannath@github ~ $ open portfolio</code></h3>
 <a href="https://jsm-portfolio-jsm.surge.sh/"><img src="./assets/portfolio-qr.svg" width="840" alt="Scan or click to open Jagannath's portfolio: jsm-portfolio-jsm.surge.sh" /></a>
 
